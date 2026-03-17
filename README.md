@@ -16,7 +16,7 @@
 
 <br/>
 
-## 🌐 [▶ LIVE DEMO — Try AURA-X Ω Now](https://alimulhaqkhan-prog.github.io/AURAX-Omega/AURAX_Omega_v1.0.0.html)
+## 🌐 [▶ LIVE DEMO — Try AURA-X Ω Now](https://alimulhaqkhan-prog.github.io/AURAX-Omega/AURAX_Omega_v1_0_0.html)
 
 *No installation · Runs in your browser · Free Groq API key required*
 
@@ -109,7 +109,7 @@ character — not as a filter.
 
 ## 🚀 How to Use
 
-1. Click the **[Live Demo](https://alimulhaqkhan-prog.github.io/AURAX-Omega/AURAX_Omega_v1.0.0.html)** link above
+1. Click the **[Live Demo](https://alimulhaqkhan-prog.github.io/AURAX-Omega/AURAX_Omega_v1_0_0.html)** link above
 2. Get a free API key at [console.groq.com](https://console.groq.com)
 3. Enter your key and set a security PIN *(default: 1234)*
 4. Start talking — AURA-X Ω begins learning you from the first message
