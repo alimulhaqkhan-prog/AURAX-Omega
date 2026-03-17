@@ -9,6 +9,10 @@ ORCID: 0009-0001-4708-0365
 
 ---
 
+## 🌐 [▶ Live Demo — Try AURA-X Ω Now](https://alimulhaqkhan-prog.github.io/AURAX-Omega/AURAX_Omega_Final.html)
+
+---
+
 ## What Makes AURA-X Ω Different
 
 Every AI you've used forgets you the moment you close the tab.
@@ -58,11 +62,10 @@ grounded, and trustworthy — across every conversation.
 
 ## 🚀 How to Use
 
-1. Download `AURAX_Omega_Final.html`
-2. Open it in any modern browser — no installation needed
-3. Enter your free [Groq API key](https://console.groq.com)
-4. Set your security PIN (default: `1234`)
-5. Start talking — your AI begins learning you from the first message
+1. Click the **[Live Demo](https://alimulhaqkhan-prog.github.io/AURAX-Omega/AURAX_Omega_Final.html)** link above
+2. Enter your free [Groq API key](https://console.groq.com)
+3. Set your security PIN (default: `1234`)
+4. Start talking — your AI begins learning you from the first message
 
 ---
 
