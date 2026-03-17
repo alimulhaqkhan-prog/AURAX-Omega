@@ -16,7 +16,7 @@
 
 <br/>
 
-## 🌐 [▶ LIVE DEMO — Try AURA-X Ω Now](https://alimulhaqkhan-prog.github.io/AURAX-Omega/AURAX_Omega_Final.html)
+## 🌐 [▶ Live Demo — Try AURA-X Ω Now](https://alimulhaqkhan-prog.github.io/AURAX-Omega/AURAX_Omega_v1.0.0.html) Now](https://alimulhaqkhan-prog.github.io/AURAX-Omega/AURAX_Omega_Final.html)
 
 *No installation · Runs in your browser · Free Groq API key required*
 
